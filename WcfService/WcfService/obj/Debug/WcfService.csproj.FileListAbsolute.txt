@@ -1,0 +1,8 @@
+E:\WcfService\WcfService\WcfService\bin\Debug\WcfService.dll
+E:\WcfService\WcfService\WcfService\bin\Debug\WcfService.pdb
+E:\WcfService\WcfService\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
+E:\WcfService\WcfService\WcfService\obj\Debug\WcfService.dll
+E:\WcfService\WcfService\WcfService\obj\Debug\WcfService.pdb
+E:\WcfService\WcfService\WcfService\bin\Debug\WcfService.dll.config
+E:\WcfService\WcfService\WcfService\bin\Debug\EntityFramework.dll
+E:\WcfService\WcfService\WcfService\bin\Debug\EntityFramework.xml

@@ -1,0 +1,13 @@
+E:\WcfService\WcfService\Host\bin\Debug\Host.exe.config
+E:\WcfService\WcfService\Host\bin\Debug\Host.exe
+E:\WcfService\WcfService\Host\bin\Debug\Host.pdb
+E:\WcfService\WcfService\Host\bin\Debug\WcfService.dll
+E:\WcfService\WcfService\Host\bin\Debug\EntityFramework.dll
+E:\WcfService\WcfService\Host\bin\Debug\WcfService.pdb
+E:\WcfService\WcfService\Host\bin\Debug\EntityFramework.xml
+E:\WcfService\WcfService\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+E:\WcfService\WcfService\Host\obj\Debug\Host.Form1.resources
+E:\WcfService\WcfService\Host\obj\Debug\Host.Properties.Resources.resources
+E:\WcfService\WcfService\Host\obj\Debug\Host.csproj.GenerateResource.Cache
+E:\WcfService\WcfService\Host\obj\Debug\Host.exe
+E:\WcfService\WcfService\Host\obj\Debug\Host.pdb

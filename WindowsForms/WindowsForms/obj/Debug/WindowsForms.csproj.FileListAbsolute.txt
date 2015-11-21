@@ -1,0 +1,11 @@
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Main.resources
+C:\Users\Minh\Documents\Visual Studio 2013\Projects\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Category.resources

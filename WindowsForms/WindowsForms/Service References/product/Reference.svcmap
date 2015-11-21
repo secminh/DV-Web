@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ff42da6b-932d-4f1a-8da1-47700a0a68f4" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/product" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="product.disco" MetadataType="Disco" ID="3f75dd60-8dfe-4c01-b067-d753e22c9692" SourceId="1" SourceUrl="http://localhost:8080/product?disco" />
+    <MetadataFile FileName="product.xsd" MetadataType="Schema" ID="ded9f1fc-b655-4876-a51f-bf5c3d99a682" SourceId="1" SourceUrl="http://localhost:8080/product?xsd=xsd2" />
+    <MetadataFile FileName="product1.xsd" MetadataType="Schema" ID="5d5d410f-4709-4889-b99d-97fa6bd181ae" SourceId="1" SourceUrl="http://localhost:8080/product?xsd=xsd0" />
+    <MetadataFile FileName="product2.xsd" MetadataType="Schema" ID="10a74ef5-6c0a-4c09-b2f0-a9f42b564f07" SourceId="1" SourceUrl="http://localhost:8080/product?xsd=xsd1" />
+    <MetadataFile FileName="Productservice.wsdl" MetadataType="Wsdl" ID="6c25a5a5-f478-49ac-81b5-cd20707f3bb3" SourceId="1" SourceUrl="http://localhost:8080/product?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
